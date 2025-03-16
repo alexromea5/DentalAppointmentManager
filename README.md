@@ -20,6 +20,10 @@ This is a Java application for managing appointments in a dental clinic. It allo
 - Provide both a **command-line interface (CLI)** and a **JavaFX graphical user interface (GUI)**.
 - Ability to switch between CLI and GUI with minimal code changes.
 
+  ![image](https://github.com/user-attachments/assets/52a017c8-aa91-4288-800d-10277bb5176f)
+  ![image](https://github.com/user-attachments/assets/a0c9c2bc-de5d-4894-83df-2c679c3d8e47)
+
+
 ### **Reports using Java 8 Streams:**
 - **Appointments per patient:** Display each patient's details along with their total number of appointments, sorted in descending order.
 - **Monthly appointment count:** Display the number of appointments for each month, sorted in descending order.
