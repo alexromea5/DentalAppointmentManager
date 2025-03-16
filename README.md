@@ -21,7 +21,7 @@ This is a Java application for managing appointments in a dental clinic. It allo
 - Ability to switch between CLI and GUI with minimal code changes.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a0c9c2bc-de5d-4894-83df-2c679c3d8e47" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a0c9c2bc-de5d-4894-83df-2c679c3d8e47" width="40%" />
   <img src="https://github.com/user-attachments/assets/52a017c8-aa91-4288-800d-10277bb5176f" width="45%" />
 </p>
 
@@ -44,13 +44,9 @@ This is a Java application for managing appointments in a dental clinic. It allo
 1. Clone this repository.
 2. Configure the database connection in `settings.properties`.
 3. Run the application:
-   - **CLI Mode:** Execute the main class from the terminal.
-   - **GUI Mode:** Run the JavaFX-based user interface.
+   - **CLI Mode:** Execute the main class from the terminal. 
+   - **GUI Mode:** Run the JavaFX-based user interface. (HelloApplication)
 
-## Future Enhancements
-- Extend the NoSQL database support.
-- Implement additional statistics and analytics for appointment management.
-- Improve the UI with enhanced interactivity and styling.
 
 ---
 This project is part of an academic assignment and follows specific requirements defined for the coursework.
