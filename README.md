@@ -22,7 +22,7 @@ This is a Java application for managing appointments in a dental clinic. It allo
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a0c9c2bc-de5d-4894-83df-2c679c3d8e47" width="40%" />
-  <img src="https://github.com/user-attachments/assets/52a017c8-aa91-4288-800d-10277bb5176f" width="45%" />
+  <img src="https://github.com/user-attachments/assets/52a017c8-aa91-4288-800d-10277bb5176f" width="44%" />
 </p>
 
 
