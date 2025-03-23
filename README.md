@@ -2,7 +2,6 @@
 
 ## Description
 This is a Java application for managing appointments in a dental clinic. It allows patients to book appointments while ensuring that no two appointments overlap. The project includes a SQL-based repository for persistent data storage and a JavaFX graphical user interface for easy interaction. Additionally, a NoSQL repository implementation is included as an alternative storage option.
-This project is part of an academic assignment and follows specific requirements defined for the coursework.
 
 ## Features
 
@@ -48,4 +47,5 @@ This project is part of an academic assignment and follows specific requirements
    - **CLI Mode:** Execute the main class from the terminal. 
    - **GUI Mode:** Run the JavaFX-based user interface. (HelloApplication)
 
-
+---
+This project is part of an academic assignment and follows specific requirements defined for the coursework.
